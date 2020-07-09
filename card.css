@@ -15,9 +15,9 @@
 .card-cont{
     /* border: 1px solid blue; */
   margin: 1.8%;
-  width: 20rem;
+  width: 18rem;
   /* cards has no height */
-  height: 400px;
+  height: 370px;
   box-shadow: 4px 6px 15px rgba(0, 0, 0, 0.15);
   /* border-radius: 10px; */
 }
@@ -29,8 +29,8 @@
   margin-top: 2%;
 }
 .card-image{
-    width: 20rem;
-    height: 90%;
+    width: 18rem;
+    height: 87%;
     border-radius: 10px;
     
 }
