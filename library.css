@@ -1,0 +1,60 @@
+.fluid-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    background-color: red;
+}
+
+.df{
+    display: flex;
+}
+
+.jc-c{
+    justify-content: center;
+}
+
+.jc-fs{
+    justify-content: flex-start;
+}
+
+.jc-fe{
+    justify-content: flex-end;
+}
+
+.jc-sa{
+    justify-content: space-around;
+}
+
+.jc-sb{
+    justify-content: space-between;
+}
+
+.jc-se{
+    justify-content: space-evenly;    
+}
+
+.fd-c{
+    flex-direction: column;
+}
+
+.fcc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-jc{
+    display: flex;
+    justify-content: center;
+}
+
+.f-ac{
+    display: flex;
+    align-items: center;
+}
+

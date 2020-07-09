@@ -1,0 +1,162 @@
+div{
+    /* border: 1px solid red; */
+}
+
+/* body{
+    font-family: ;
+} */
+
+
+.landing-page{
+    height: 710px;
+    background-color: white;
+}
+
+.landing-image{
+    position: absolute;
+    width: 100%;
+    height: 630px;
+}
+
+.main-image{
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+}
+
+.nav-bar{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links{
+   margin-right: 80px;
+}
+
+a{
+    padding: 15px;
+    text-decoration: none;
+    color: #3036CC;
+    font-size: 18px;
+}
+
+a:hover{
+ color: gold;
+ cursor: pointer;
+}
+
+.desc-side{
+    /* display: flex; */
+    /* height: 200px; */
+    flex-basis: 40%;
+}
+
+.image-side{
+    flex-basis: 60%;
+}
+
+.desc-text{
+    color: #3036CC;
+    margin-left: 90px;
+}
+
+.t1{
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.t2{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: -6px;
+}
+
+.t3{
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: -6px;
+}
+
+.t4{
+    width: 70%;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.btn{
+    margin-top: 60px;
+    margin-left: 90px;
+}
+
+.btn1{
+    height: 47px;
+    width: 140px;
+    color: white;
+    background-color: #3036CC;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn2{
+    margin-left: 20px;
+    border-radius: 8px;
+    border: none;
+    height: 47px;
+    width: 140px;
+    color:#3036CC;
+    background-color: white;
+    font-size: 16px;
+}
+
+.about-us-cont{
+    background: rgba(74, 122, 255, 0.02)
+}
+
+.my-image{
+    margin-left: 30%;
+    width: 432.37px;
+    height: 701px;
+}
+
+.image1{
+    width: 90%;
+    height: 90%;
+}
+
+.about-image{
+    flex-basis: 40%;
+}
+
+.abt-image-cont{
+    width: 405px;
+    height: 776px;
+}
+
+.image2{
+    width: 90%;
+    height: 90%;
+}
+
+.about-body{
+    margin-left: 30px;
+    margin-top: 10%;
+    flex-basis: 60%;
+}
+
+.p1{
+    margin-top: 25px;
+}
+
+.btn3{
+    border: none;
+    font-size: 20px;
+    width: 180px;
+    height: 70px;
+    background: #FFFFFF;
+    box-shadow: -3px 4px 12px rgba(141, 136, 136, 0.4);
+}
